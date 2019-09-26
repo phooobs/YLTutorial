@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-09-26T21:47:18Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Obstacle Avoider"
+        },
+        "Owner": "James Ferguson <jwferguson@fortlewis.edu>",
+        "Size": {
+            "X": 43.16,
+            "Y": 61.9
+        }
+    }
+}
